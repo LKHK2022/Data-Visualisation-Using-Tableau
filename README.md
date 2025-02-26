@@ -16,16 +16,20 @@ Features and Visualizations 🔍
 Displays geographical changes in employment across the UK.
 Allows for quick identification of regions with significant employment changes.
 Interactive features to zoom and filter by specific regions.
-2. Tree Map
+
+3. Tree Map
 Provides a high-level overview of employment changes across various industries.
 Visualizes which sectors have seen the most significant employment changes, allowing for easy comparison.
-3. Bar Chart
+
+4. Bar Chart
 Compares employment rates across different regions of the UK.
 Helps users quickly spot trends in regional employment patterns.
 Interactive filters to display specific data points by time period, sector, or region.
-4. Bubble Graph
-Displays the relationship between employment changes and other key factors, such as population size and industry growth.
+
+5. Bubble Graph
+Displays the relationship between employment changes and region.
 Allows users to filter and adjust the graph for a deeper dive into data insights.
+
 Key Tableau Skills Used 🛠️
 Data Connection & Importing: Used Tableau’s data connection features to import and clean datasets for analysis, ensuring accuracy and consistency.
 Calculated Fields: Applied calculated fields to derive new insights, such as employment change percentages, from raw data.
@@ -61,7 +65,7 @@ Key Tableau Skills Used 🛠️
 Data Connection & Importing: Connected to multiple data sources to import and clean data for analysis in Tableau.
 Calculated Fields: Created calculated fields to derive key sales metrics, such as average costs and total sales.
 Filters & Parameters: Implemented interactive filters, enabling users to explore the dashboard by year, region, delivery type, or order priority.
-Pie Chart & Bar Chart: Used pie charts for showing proportions of sales by orderpriority and bar charts for sales analysis by region and year.
+Pie Chart & Bar Chart: Used pie charts for showing proportions of sales by order priority and bar charts for sales analysis by region and year.
 Scatter Plot & Line Graph: Utilized scatter plots to analyze relationships between sales and profit of each subcategory, and line graphs to average delivery cost trends over time.
 Grouping & Segmentation: Grouped sales data by years and segmented by product sub-category, delivery type, and region to enhance data analysis.
 Tooltips & Annotations: Added tooltips to all charts for an interactive experience, allowing users to hover over data points for additional details.
